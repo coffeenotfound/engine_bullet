@@ -1,0 +1,3 @@
+[submodule "engine_bullet_sys/bullet"]
+	path = engine_bullet_sys/bullet
+	url = https://github.com/bulletphysics/bullet3.git
