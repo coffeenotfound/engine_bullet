@@ -1,0 +1,7 @@
+[package]
+name = "engine_bullet"
+version = "0.1.0"
+authors = ["Jan Katzer <code.katzer@gmail.com>"]
+edition = "2018"
+
+[dependencies]
